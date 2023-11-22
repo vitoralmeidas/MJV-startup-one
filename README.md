@@ -34,3 +34,9 @@ Server + WEB
 *O Expo funciona apenas na versão 16.20.2, precisamos do NVM para particionar as versões do Node.js (20.9.0 e 16.20.2)
 **Selecionar a versão 16.20.2 para realizar a instalação do Expo e seus pacotes adicionais.
 Uma vez Expo e pacotes instalados na versão 16.20.2, retornar para a versão 20.9.0 (React).
+
+
+DB_PASSWORD link -> server_client/config/.env (MONGO_URI)
+grupo: mjv
+password: vitor1994
+
